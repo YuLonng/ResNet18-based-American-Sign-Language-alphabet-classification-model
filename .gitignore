@@ -1,0 +1,19 @@
+# Python 缓存
+__pycache__/
+*.py[cod]
+
+# IDE 配置文件
+.idea/
+.vscode/
+
+# 深度学习模型权重
+*.pth
+*.pt
+*.ckpt
+
+# 数据集和测试图片 (如果很大)
+dataset/
+result/
+
+# 其他
+*.log
